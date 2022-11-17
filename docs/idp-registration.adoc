@@ -1,0 +1,25 @@
+= IDP registration process
+:source-highlighter: highlight.js
+:imagesdir: ../images/
+ifdef::env-github[]
+:toc: preamble
+endif::[]
+ifndef::env-github[]
+:toc: left
+endif::[]
+:toclevels: 3
+:toc-title: Table of content
+
+image::gematik_logo.svg[gematik,float="right", 300]
+
+== Summary
+
+This document describes the process to register a TI-Messenger providers Registration-Service with the gematik IDP.
+
+Only german healthcare organizations with a SMC-B smartcard are permitted to order a Messenger-Service from a TI-Messenger-Provider. The messenger-service can be ordered on a portal of the TI-Messenger-Provider called Registration-Service. One way to prove the posession of a SMC-B smartcard is the authentication on the gematik IDP with OIDC authorization code flow. The Registration-Service must be known by the IDP. This is achieved by the registration process.
+
+== Registration form
+
+
+== Registration result
+
