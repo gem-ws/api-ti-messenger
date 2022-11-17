@@ -9,14 +9,14 @@ ifndef::env-github[]
 endif::[]
 :toclevels: 3
 :toc-title: Table of content
-ifdef::env-github[]
-++++
-<img align="right" role="right" src="../images/gematik_logo.svg?raw=true"/>
-++++
-endif::[]
-ifndef::env-github[]
-image::gematik_logo.svg[gematik,float="right", 300]
-endif::[]
+//ifdef::env-github[]
+//++++
+//<img align="right" role="right" src="../images/gematik_logo.svg?raw=true"/>
+//++++
+//endif::[]
+//ifndef::env-github[]
+image::gematik_logo.svg[gematik,300]
+//endif::[]
 
 == Summary
 
