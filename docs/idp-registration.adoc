@@ -20,6 +20,15 @@ Only german healthcare organizations with a SMC-B smartcard are permitted to ord
 
 == Registration form
 
+The registration form uses german language.
+
+.*Registration form*
+|===
+|Service Umgebung
+|RU (reference environment) or PU (production environment)
+
+|
+|===
 
 == Registration result
 
